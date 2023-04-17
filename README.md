@@ -1,24 +1,3 @@
-# README
+<h1> Hi! I wrote a step by step on this code at medium. Check it out! </h1>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- https://medium.com/@hurikzamith/api-building-in-2023-ruby-on-rails-fa16d9372dc0
